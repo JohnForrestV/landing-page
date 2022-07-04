@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+}
+.alert-text {
+  color: rgb(250, 7, 7);
+}
+#title {
+  background-color: blueviolet;
+}
+.read,
+.unread {
+  color: aquamarine;
+  background-color: black;
+}
